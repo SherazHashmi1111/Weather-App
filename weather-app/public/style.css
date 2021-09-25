@@ -1,0 +1,13 @@
+.form1{
+    width: 50rem;
+    height: 30rem;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 1rem;
+    box-shadow: .3rem .3rem 1rem #000;
+}
+#form-input{font-size: 3rem;
+font-weight: 100;}
